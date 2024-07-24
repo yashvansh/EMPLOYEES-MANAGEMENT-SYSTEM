@@ -1,0 +1,1 @@
+SELECT SUM(Salary) AS TotalSalaryExpense FROM employeeDetails;

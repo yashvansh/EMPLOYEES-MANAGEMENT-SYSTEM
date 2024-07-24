@@ -1,0 +1,1 @@
+SELECT MAX(Salary) AS MaxSalary FROM employeeDetails;

@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE YEAR(HireDate) <> 2017;

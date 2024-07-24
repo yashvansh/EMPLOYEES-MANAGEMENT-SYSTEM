@@ -1,0 +1,1 @@
+SELECT MIN(HireDate) AS OldestHireDate, MAX(HireDate) AS NewestHireDate FROM employeeDetails;

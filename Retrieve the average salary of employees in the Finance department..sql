@@ -1,0 +1,1 @@
+SELECT AVG(Salary) AS AverageSalary FROM employeeDetails WHERE Department = 'Finance';

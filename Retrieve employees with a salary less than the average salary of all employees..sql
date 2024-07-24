@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE Salary < (SELECT AVG(Salary) FROM employeeDetails)

@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE YEAR(HireDate) = (SELECT YEAR(HireDate) FROM employeeDetails WHERE FirstName = 'Priya' AND LastName = 'Reddy');

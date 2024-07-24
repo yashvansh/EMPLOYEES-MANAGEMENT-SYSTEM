@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE Department = 'HR' AND HireDate < '2019-01-01';
