@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE LastName LIKE '%non'

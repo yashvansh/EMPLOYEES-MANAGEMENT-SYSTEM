@@ -1,0 +1,1 @@
+SELECT * FROM employeeDetails WHERE HireDate > '2019-12-31';
